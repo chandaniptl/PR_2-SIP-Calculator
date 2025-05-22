@@ -1,0 +1,46 @@
+.tab-btn {
+  border-radius: 20px;
+  padding: 5px 15px;
+  font-weight: 600;
+}
+
+.tab-active {
+  background-color: #e6fff3;
+  color: #00b386;
+}
+
+.output-box {
+  background: #e6fff3;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: 600;
+  color: #00b386;
+}
+
+.slider {
+  width: 100%;
+}
+
+.label-title {
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.summary-value {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.summary-label {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.invest-btn {
+  background-color: #04684f;
+  color: white;
+  font-weight: 600;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+}
